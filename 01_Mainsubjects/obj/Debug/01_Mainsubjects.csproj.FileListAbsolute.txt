@@ -1,0 +1,7 @@
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\bin\Debug\01_Mainsubjects.exe.config
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\bin\Debug\01_Mainsubjects.exe
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\bin\Debug\01_Mainsubjects.pdb
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\obj\Debug\01_Mainsubjects.csproj.AssemblyReference.cache
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\obj\Debug\01_Mainsubjects.csproj.CoreCompileInputs.cache
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\obj\Debug\01_Mainsubjects.exe
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\01_Mainsubjects\obj\Debug\01_Mainsubjects.pdb
