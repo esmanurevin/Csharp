@@ -1,0 +1,7 @@
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe.config
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.pdb
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.AssemblyReference.cache
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.CoreCompileInputs.cache
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.exe
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.pdb
