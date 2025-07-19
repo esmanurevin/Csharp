@@ -95,10 +95,10 @@ namespace _02_Variables
             #endregion
 
             #region klavyeden karakter girişleri
-            char gender;
-            Console.Write("lütfen cinsiyet giriniz:");
-            gender=char.Parse(Console.ReadLine());
-            Console.Write("seçtiğiniz cinsiyet:" + gender);
+            //char gender;
+            //Console.Write("lütfen cinsiyet giriniz:");
+            //gender=char.Parse(Console.ReadLine());
+            //Console.Write("seçtiğiniz cinsiyet:" + gender);
             #endregion
             Console.Read();
 
