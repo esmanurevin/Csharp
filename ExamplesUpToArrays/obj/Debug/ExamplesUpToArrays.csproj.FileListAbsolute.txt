@@ -1,0 +1,7 @@
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\obj\Debug\ExamplesUpToArrays.csproj.AssemblyReference.cache
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\obj\Debug\ExamplesUpToArrays.csproj.CoreCompileInputs.cache
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\bin\Debug\ExamplesUpToArrays.exe.config
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\bin\Debug\ExamplesUpToArrays.exe
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\bin\Debug\ExamplesUpToArrays.pdb
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\obj\Debug\ExamplesUpToArrays.exe
+C:\Users\Esmanur\source\repos\Csharpeğitimkampı\ExamplesUpToArrays\obj\Debug\ExamplesUpToArrays.pdb
